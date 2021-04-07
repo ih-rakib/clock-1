@@ -1,0 +1,28 @@
+body {
+   background-color: black;
+   font-family: times;
+   text-align: center;
+ }
+  
+#clock {
+   margin: 15% 6%;
+ }
+      
+#digital_display{
+   border:5px solid #7ed2fdff;
+   color: #7ed2fdff;
+   width: 200px;
+   padding: 5px;
+   font-size: 30px; 
+   margin-top: 20%;
+   margin-left: 18%;
+ }
+         
+p{
+   color:white;
+   text-align:bottom;
+   font-size:15px;
+   margin-top: 5%;
+  }
+        
+     
